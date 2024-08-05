@@ -1,6 +1,7 @@
 {
-  "name": "json-render",
+  "name": "json-visual",
   "version": "1.0.0",
+  "description": "A versatile React component for rendering JSON data effortlessly. This package allows developers to easily integrate dynamic JSON display within their React applications, providing clear and customizable visualization options for various data structures.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
@@ -8,8 +9,6 @@
     "rollup": "rollup -c --bundleConfigAsCjs"
   },
   "author": "Ashish",
-  "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^26.0.1",
     "@rollup/plugin-node-resolve": "^15.2.3",
@@ -24,5 +23,24 @@
   },
   "dependencies": {
     "rollup": "^4.20.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishcumar/json-visual-npm.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishcumar/json-visual-npm/issues"
+  },
+  "homepage": "https://github.com/ashishcumar/json-visual-npm#readme",
+  "keywords": [
+    "react",
+    "json",
+    "component",
+    "json-view",
+    "json-tree",
+    "array-viewer",
+    "json-display",
+    "json-viewer"
+  ]
 }
