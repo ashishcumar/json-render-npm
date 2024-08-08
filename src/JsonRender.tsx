@@ -18,7 +18,6 @@ function JsonRender(props: Readonly<IProps>) {
       style={{
         padding: "24px",
         background: background || "#f7f7f7",
-        minHeight: "100vh",
       }}
     >
       {Object.entries(json).map(([key, value], i, currArr) => {
