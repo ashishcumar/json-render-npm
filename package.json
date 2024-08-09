@@ -1,6 +1,6 @@
 {
   "name": "json-visual",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A versatile React component for rendering JSON data effortlessly. This package allows developers to easily integrate dynamic JSON display within their React applications, providing clear and customizable visualization options for various data structures.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
