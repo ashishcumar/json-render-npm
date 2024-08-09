@@ -117,8 +117,3 @@ function JsonRender(props: Readonly<IProps>) {
 }
 
 export default JsonRender;
-
-// key: "#0A0A0A";
-// value: "#333333";
-// #c7522a;
-// #008585
